@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/OlegZhigulin)
+
 <div id="badges">
    <a href="https://t.me/Oleg_Zhigulin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telega"/>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   </a>    
  
-  
+![Leetcode Stats](https://leetcard.jacoblin.cool/OlegZhigulin)
 <div id=codewars>
   <img src='https://www.codewars.com/users/OlegZhigulin/badges/large'>
 </div>
