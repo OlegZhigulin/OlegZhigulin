@@ -1,6 +1,6 @@
 
 <div id="badges">
-   <a href="https://t.me/Oleg_Zhigulin">
+   <a href="https://t.me/OlegZhigulin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telega"/>
   </a>  
   <a href="https://www.linkedin.com/in/oleg-zhigulin-b63049220">
